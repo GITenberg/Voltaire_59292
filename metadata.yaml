@@ -1,5 +1,5 @@
 _repo: Voltaire_59292
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Largillière, Nicolas de
@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '40410'
     url: http://www.gutenberg.org/2009/agents/40410
     wikipedia: http://sv.wikipedia.org/wiki/Hjalmar_%C3%96hrwall
+covers:
+- cover_type: archival
+  image_path: 59292-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59292#Voltaire
 gutenberg_issued: '2019-04-17'
 gutenberg_type: Text
 identifiers:
